@@ -250,7 +250,7 @@ export default function Welcome({
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                             {/* Telegram */}
                             <a
-                                href="https://t.me/Livelongevity"
+                                href="https://t.me/IslomFargniy"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group p-6 rounded-2xl bg-white/50 dark:bg-white/5 border border-black/5 dark:border-white/10 backdrop-blur-sm hover:bg-white/80 dark:hover:bg-white/10 transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-blue-500/10 cursor-pointer"
@@ -266,7 +266,7 @@ export default function Welcome({
                                 </p>
                                 <span className="inline-flex items-center gap-1.5 text-sm font-medium text-blue-500 group-hover:text-blue-400 transition-colors">
                                     <MessageCircle className="w-4 h-4" />
-                                    @Livelongevity
+                                    @IslomFargniy
                                 </span>
                             </a>
 
